@@ -1,9 +1,9 @@
 
 # 💫 Hi! This is Chandan U 😊✨:
 
-**🔧 Full-Stack Developer | 💡 Problem Solver | 🌱 Sustainable Tech Enthusiast**
+**🔧 Full-Stack Developer | 💡 Problem Solver | ⚙️ Tech Enthusiast**
 
-I'm Chandan U, a full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
+A full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
 
 💻 Open to collaborating on full-stack projects, problem-solving challenges, and contributing to open-source initiatives.  
 📚 Currently learning advanced algorithms, cloud computing, and backend technologies.  
