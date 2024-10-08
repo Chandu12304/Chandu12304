@@ -1,10 +1,15 @@
 
 # 💫 Hi! This is Chandan U 😊✨:
-🔧💻 I'm focusing on DSA to improve my problem-solving skills while also working on web development projects.<br>
-🤝🌐 I'm open to collaborating on web development projects, problem-solving challenges, and contributing to open-source initiatives related to full-stack development and DSA.<br>
-📚☁️ Currently learning advanced algorithms, data structures, cloud computing, and backend technologies.<br>
-💡🔐 Ask me about data structures and algorithms, full-stack web development, or emerging technologies in cloud computing and cybersecurity.<br>
-🧩🌱 Fun fact: I enjoy solving puzzles and working on projects that combine both creativity and logic, especially when it comes to sustainable tech solutions.
+
+**🔧 Full-Stack Developer | 💡 Problem Solver | 🌱 Sustainable Tech Enthusiast**
+
+I'm Chandan U, a full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
+
+💻 Open to collaborating on full-stack projects, problem-solving challenges, and contributing to open-source initiatives.  
+📚 Currently learning advanced algorithms, cloud computing, and backend technologies.  
+🔐 Interested in emerging technologies in cybersecurity and sustainable tech solutions.
+
+Feel free to ask me about DSA, full-stack development, or cloud computing!
 
 
 ## 🌐 Socials:
