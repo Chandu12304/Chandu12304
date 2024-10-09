@@ -9,7 +9,6 @@ A full-stack developer passionate about combining creativity and logic to build 
 📚 Currently learning advanced algorithms, cloud computing, and backend technologies.  
 🔐 Interested in emerging technologies in cybersecurity and sustainable tech solutions.
 
-Feel free to ask me about DSA, full-stack development, or cloud computing!
 
 
 ## 🌐 Socials:
