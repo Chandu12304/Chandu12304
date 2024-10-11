@@ -13,7 +13,8 @@ A full-stack developer passionate about combining creativity and logic to build 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-u-481516260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/chandanu04042003/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/chandanu0ng59/)
 
 <div align="center">
 
