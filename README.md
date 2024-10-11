@@ -1,6 +1,8 @@
+<div align="center">
 
 # 💫 Hi! This is Chandan U 😊✨:
 
+</div>
 **🔧 Full-Stack Developer | 💡 Problem Solver | ⚙️ Tech Enthusiast**
 
 A full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
@@ -11,9 +13,10 @@ A full-stack developer passionate about combining creativity and logic to build 
 
 
 
-## 🌐 Connect with me
+<div align="center">
+  
+  ## 🌐 Connect with me
 
-<p align="center">
   <a href="https://www.linkedin.com/in/chandan-u-481516260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,7 +26,9 @@ A full-stack developer passionate about combining creativity and logic to build 
   <a href="https://www.geeksforgeeks.org/user/chandanu0ng59/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"/>
   </a>
-</p>
+
+</div>
+
 
 
 <div align="center">
