@@ -53,6 +53,6 @@ A full-stack developer passionate about combining creativity and logic to build 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu12304&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/chandanu04042003?ext=heatmap)
 
 </div>
