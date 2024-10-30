@@ -4,6 +4,8 @@
 
 **🔧 Full-Stack Developer | 💡 Problem Solver | ⚙️ Tech Enthusiast**
 
+### My portfolio:-
+
 A full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
 
 💻 Open to collaborating on full-stack projects, problem-solving challenges, and contributing to open-source initiatives.  
