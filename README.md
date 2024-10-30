@@ -47,7 +47,7 @@ A full-stack developer passionate about combining creativity and logic to build 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ## Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/chandanu04042003?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/chandanu04042003?ext=heatmap)](https://leetcode.com/u/chandanu04042003/)
 
 ## GeeksforGeeks
 [![Chandan's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=chandanu0ng59)](https://www.geeksforgeeks.org/user/chandanu0ng59/)
