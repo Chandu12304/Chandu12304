@@ -46,10 +46,10 @@ A full-stack developer passionate about combining creativity and logic to build 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## Leetcode
+## 📊 Leetcode Stats:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/chandanu04042003?ext=heatmap)](https://leetcode.com/u/chandanu04042003/)
 
-## GeeksforGeeks
+## 📊 GeeksforGeeks Stats:
 [![Chandan's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=chandanu0ng59)](https://www.geeksforgeeks.org/user/chandanu0ng59/)
 
 ## 📊 GitHub Stats:
