@@ -49,6 +49,9 @@ A full-stack developer passionate about combining creativity and logic to build 
 ## Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chandanu04042003?ext=heatmap)
 
+## GeeksforGeeks
+[![Chandan's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=chandanu0ng59)](https://www.geeksforgeeks.org/user/chandanu0ng59/)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chandu12304&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chandu12304&theme=radical&hide_border=false)<br/>
