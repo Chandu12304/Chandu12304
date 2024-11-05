@@ -4,7 +4,7 @@
 
 **🔧 Full-Stack Developer | 💡 Problem Solver | ⚙️ Tech Enthusiast**
 
-#### My portfolio:- https://velvety-yeot-87b092.netlify.app/
+#### My portfolio:- https://chandan-dev-portfolio.netlify.app/
 
 A full-stack developer passionate about combining creativity and logic to build efficient solutions. I'm currently focused on improving my problem-solving skills through data structures and algorithms (DSA), while working on web development projects. 
 
