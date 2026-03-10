@@ -1,4 +1,4 @@
-# 💫 Hi! This is Chandan U 😊✨:
+# 💫 Hi! This is Chandan U 😊✨
 
 **⚙️ Systems Software Developer | 🛠️ Open-Source Contributor | 💻 Low-Level Tech Enthusiast**
 
